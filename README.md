@@ -6,7 +6,10 @@ This project focuses on analyzing customer data using SQL.
 The goal is to understand customer activity, revenue metrics, and identify top customers.
 
 ## Dataset
-The dataset contains information about customers and their purchases.
+The dataset includes customer-level transactional data such as:
+- customer ID
+- purchase activity
+- revenue information
 
 ## Key Metrics
 - Total number of customers
