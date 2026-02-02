@@ -17,16 +17,16 @@ The dataset contains information about customers and their purchases.
 ## Results
 
 ### Total Customers
-![Total Customers](screenshots/total_customers.png)
+![Total Customers](total_customers.png)
 
 ### Active Customers
-![Active Customers](screenshots/active_customers.png)
+![Active Customers](active_customers.png)
 
 ### ARPU
-![ARPU](screenshots/arpu.png)
+![ARPU](arpu.png)
 
 ### Top 10 Customers
-![Top 10 Customers](screenshots/top_10_customers.png)
+![Top 10 Customers](top_10_customers.png)
 
 ## Tools
 - SQL
